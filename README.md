@@ -1,6 +1,6 @@
 ## Bem-vindo!
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotlourenco&layout=compact&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jotlourenco&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)
 
 
 
